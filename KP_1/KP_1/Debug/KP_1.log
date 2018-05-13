@@ -1,0 +1,3 @@
+﻿  KP.c
+c:\users\admin.laptop-e65he2tr\pictures\кр_матеріали\kp_1\kp_1\kp.c(137): warning C4133: функция: несовместимые типы - из "char [1]" в "wchar_t *"
+  KP_1.vcxproj -> C:\Users\Admin.LAPTOP-E65HE2TR\Pictures\КР_матеріали\KP_1\Debug\KP_1.exe
